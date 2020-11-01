@@ -1,28 +1,44 @@
 
- {"myBudget":[{ 
+ [
+{ "myBudget":[ 
+    { 
     "title": "Eat out",
-    "budget": 30 
-} 
+    "budget": 30,
+    "hex":  "#40e0d0"
+    },
 
-,{
+   {
     "title": "Rent",
-    "budget": 350
-}
-,{
+    "budget": 350,
+    "hex":"#78d0aa"
+    },
+   {
     "title": "Grocery",
-    "budget": 90
-}, {
+    "budget": 90,
+    "hex": "#f4d4f4"
+
+    }, 
+    {
     "title": "Cable",
-    "budget": 100
-}, {
+    "budget": 100,
+    "hex": "#f0a714"
+
+    }, 
+    {
     "title": "Internet",
-    "budget": 200
-}, {
+    "budget": 200,
+    "hex": "#ffcc00"
+    }, 
+    {
     "title": "Travel",
-    "budget": 150
-}, 
-{
+    "budget": 150,
+    "hex": "#eececb"
+    }, 
+    {
     "title": "Childcare",
-    "budget": 1200
-}]
-}
+    "budget": 1200,
+    "hex": "#f4d4f4"
+    }
+            ]
+    }
+]
